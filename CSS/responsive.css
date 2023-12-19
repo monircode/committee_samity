@@ -1,0 +1,683 @@
+@media only screen and (max-width: 2560px) {
+    /* Custom CSS*/
+    .hero_slider .carousel-inner .carousel-item {
+        height: 750px;
+    }
+    .about .carousel-inner .carousel-item {
+        height: 430px;
+    }
+    .about  .carousel-item img {
+        height: 62vh;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    /* Custom CSS*/
+    .hero_slider .carousel-inner .carousel-item {
+        height: 650px;
+    }
+    .about .carousel-inner .carousel-item {
+        height: 390px;
+    }
+    .about  .carousel-item img {
+        height: 80vh;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    /* Custom CSS*/
+    .navbar-brand {
+        width: 250px;
+    }
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 1.6rem;
+        line-height: 1.8rem;
+    }
+
+    .nav-link {
+        margin: -3px !important;
+    }
+
+    .hero_slider .carousel-inner .carousel-item {
+        height: 600px;
+    }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 320px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 320px;
+        right: 0;
+      }
+
+    .back_btn {
+        padding: 2rem 0 0 2.5rem;
+      }
+
+      .about .carousel-inner .carousel-item {
+        height: 320px;
+    }
+
+    .about img {
+        height: 250px;
+    }
+      
+    .about  .carousel-item img {
+        height: 85vh;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .hero_slider .carousel_caption h1 {
+        font-size: 2rem;
+    }
+    .hero_slider .carousel_caption p {
+        font-size: 1rem;
+    }
+    .hero_slider .carousel_caption a {
+        font-size: 1rem;
+    }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 310px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 310px;
+        right: 0;
+      }
+
+    .navbar .nav-link {
+        line-height: 1.7575rem;
+    }
+
+    .navbar-toggler {
+        color: var(--text-color);
+    }
+    .navbar-toggler i {
+        color: var(--text-color);
+        line-height: 2;
+    }
+
+    .navbar {
+        text-align: center;
+        background-color:  whitesmoke;
+    }
+
+    .main-btn {
+        margin: auto;
+    }
+
+    .back_btn {
+        padding: 2rem 0 0 8.5rem;
+      }
+
+    .about h3 {
+        font-size: 1.3rem;
+    }
+
+    .about img {
+        height: 200px;
+    }
+
+    .about p {
+        font-size: 0.85rem;
+    }
+    .about span {
+        font-size: 0.85rem;
+    }
+
+    .about .carousel-inner .carousel-item {
+        height: 280px;
+    }
+    .about  .carousel-item img {
+        height: 62vh;
+    }
+    
+}
+
+@media only screen and (max-width: 767px) {
+
+    .nav-link {
+        font-size: 0.835rem;
+      }
+    
+    .main-btn {
+        margin: auto;
+    }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 245px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 245px;
+        right: 0;
+      }
+
+    .hero_slider .carousel-inner .carousel-item {
+        height: 450px;
+    }
+
+    .carousel_caption{
+        left: 0;
+        bottom: 12rem;
+    }
+    .hero_slider .carousel_caption p {
+        font-size: 0.8rem;
+    }
+    .hero_slider .carousel_caption a {
+        font-size: 1rem;
+    }
+
+    .carousel_caption img {
+        height: 50px !important;
+        top: 210px;
+        left: 5px;
+      }
+      
+      .carousel_caption h4 {
+        font-size: 1.5rem;
+        top: 225px;
+        left: -20px;
+      }
+
+    .hero_slider .fontIcon {
+        height: 2.5rem;
+        width: 1.3rem;
+      }
+
+    .hero-title h1 {
+        font-size: 2rem;
+    }
+    .hero-title h2 {
+        font-size: 1.1rem;
+    }
+
+    .hero_slider .carousel_caption .btn{
+        display: block;
+        margin: auto;
+        width: 7rem;
+    }
+
+    .introduce__page .underline {
+        width: 3rem;
+    }
+
+    .about  .carousel-item img {
+        height: 70vh;
+    }
+
+    .conveynor .underline {
+        width: 3rem;
+    }
+
+    .adhoc .underline {
+        width: 3rem;
+    }
+
+    .executive .underline {
+        width: 3rem;
+    }
+
+    .table_history .info .btn{
+        width: 95%;
+    }
+
+    .lifetimemember .underline {
+        width: 3rem;
+    }
+
+    .introduce__page h1 {
+        font-size: 2rem;
+    }
+
+    .inner_footer h3, p {
+        text-align: center;
+      }
+      .inner_footer p {
+        font-size: 0.85rem;
+      }
+    
+}
+
+
+@media only screen and (max-width: 414px) {
+    /* Custom CSS*/
+    .header .navbar-toggler {
+        margin-right: 0.5rem;
+    }
+    .nav-link {
+        font-size: 0.825rem;
+      }
+    .hero_slider .carousel-inner .carousel-item {
+        height: 350px;
+    }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 210px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 210px;
+        right: 0;
+      }
+
+    .hero_slider .carousel_caption{
+        left: 2rem;
+        bottom: 7rem;
+    }
+
+    .carousel_caption h1{
+        font-size: 1rem !important;
+      }
+    
+    .carousel_caption p{
+      font-size: 0.85rem !important;
+      font-weight: 400;
+    }
+    .carousel_caption .btn{
+      font-size: 0.7rem !important;
+    }
+
+      .carousel_caption img {
+        height: 40px !important;
+        top: 140px;
+        left: -25px;
+      }
+      
+      .carousel_caption h4 {
+        font-size: 1rem;
+        top: 150px;
+        left: -35px;
+      }
+      
+      .hero_slider .fontIcon {
+        height: 2.7rem;
+        width: 1.3rem;
+      }
+
+    .hero_slider .carousel_caption h1 {
+        font-size: 1.2rem;
+    }
+    .hero_slider .carousel_caption p {
+        font-size: 0.6rem !important;
+    }
+    .hero_slider .carousel_caption a {
+        font-size: 0.9rem;
+    }
+
+    .hero_slider .carousel_caption .btn{
+        display: block;
+        margin: auto;
+        width: 5rem;
+    }
+    
+    .introduce__page h2 {
+        font-size: 1.5rem;
+      }
+    .introduce__page h4 {
+        padding-left: 0.5rem;
+        color: var(--text-color);
+      }
+    .introduce__page p {
+        font-size: 1rem;
+        text-align: left;
+        padding: 0.5rem;
+      }
+    /* .modal-body {
+        max-height: 400px; 
+        overflow-y: auto;
+    } */
+
+    .about .card-img-top {
+        height: 300px;
+    }
+    .modal-body img {
+        height: 300px !important;
+    }
+
+    .introduce__page .underline {
+        width: 2.3rem;
+    }
+
+    .about  .carousel-item img {
+        height: 70vh;
+    }
+
+    .conveynor .underline {
+        width: 2.3rem;
+    }
+
+    .adhoc .underline {
+        width: 2.3rem;
+    }
+
+    .executive .underline {
+        width: 2.3rem;
+    }
+
+    .table_history .info .btn{
+        width: 95%;
+    }
+
+    .lifetimemember .underline {
+        width: 2.3rem;
+    }
+
+    .inner_footer p {
+        font-size: 0.825rem;
+      }
+}
+
+@media only screen and (max-width: 375px) {
+    .navbar-brand {
+        height: 60px;
+        width: 220px;
+    }
+    .navbar-toggler i {
+        font-size: 1.275rem;
+    }
+    .nav-link {
+        font-size: 0.815rem;
+      }
+    .hero_slider .carousel-inner .carousel-item {
+        height: 250px;
+    }
+    .hero_slider .carousel_caption h1 {
+        font-size: 1.3rem;
+    }
+    .hero_slider .carousel_caption p {
+        font-size: 0.6rem !important;
+    }
+    .hero_slider .carousel_caption a {
+        font-size: 0.8rem;
+    }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 140px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 140px;
+        right: 0;
+      }
+    .hero_slider .fontIcon {
+        height: 2.5rem;
+        width: 1.3rem;
+      }
+    .coundown_timer .time h1 {
+        font-size: 2rem;
+        word-spacing: 3px;
+      }
+    .coundown_timer .time p {
+        font-size: 2rem !important;
+        word-spacing: 2rem !important;
+        width: 100%;
+      }
+    .about_section .carousel-inner{
+        height: 47vh !important;
+      }
+
+    .back_btn {
+        padding: 1.5rem 0 0.5rem 0.6rem;
+      }
+
+      .hero_slider .carousel_caption{
+        left: 1rem;
+        bottom: 5rem;
+      }
+
+    .hero_slider .carousel_caption img {
+        height: 35px !important;
+        top: 120px;
+        left: -10px;
+      }
+      
+    .hero_slider .carousel_caption h4 {
+        font-size: 1rem;
+        top: 130px;
+        left: -20px;
+        word-spacing: 1px;
+      }
+
+    .hero_slider .carousel_caption .btn{
+        display: block;
+        margin: auto;
+        width: 5rem;
+    }
+
+    .introduce__page h2 {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+    .introduce__page .underline {
+        width: 2.1rem;
+    }
+
+    .yearwise_EC h2 {
+        font-size: 1.3rem;
+      }
+
+    .yearwise_EC .underline {
+        width: 2.1rem;
+      }
+
+    .conveynor .underline {
+        width: 2.1rem;
+    }
+
+    .adhoc .underline {
+        width: 2.1rem;
+    }
+
+    .executive .underline {
+        width: 2.1rem;
+    }
+
+    .lifetimemember .underline {
+        width: 2.1rem;
+    }
+
+    .introduce__page span {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+      }
+
+    .introduce__page .underline {
+        width: 2rem;
+    }
+
+    .about .carousel-inner .carousel-item {
+        height: 230px;
+    }
+
+    .about .card-img-top {
+        height: 290px;
+    }
+    
+    .about  .carousel-item img {
+        height: 55vh;
+    }
+
+    .table_history .info .btn{
+        width: 95%;
+    }
+
+    /*Footer*/
+    .inner_footer p, i {
+        font-size: 0.775rem;
+    }
+
+    .inner_footer .copyright span, a {
+        font-size: 0.7rem;
+    }
+    .inner_footer h3, p {
+        text-align: center;
+      }
+
+      .inner_footer p {
+        font-size: 0.825rem;
+      }
+}
+
+@media only screen and (max-width: 320px) {
+    .navbar-brand {
+        height: 60px;
+        width: 200px;
+    }
+    .back_btn {
+        padding: 2rem 0 0 0.5rem;
+      }
+    .navbar-toggler i {
+        font-size: 1rem !important;
+    }
+
+    .conveynor_committee th {
+        font-size: 0.85rem;
+    }
+
+    .hero_slider .carousel-inner .carousel-item {
+        height: 250px;
+    }
+
+    .hero_slider .carousel_caption p {
+        font-size: 0.5rem !important;
+    }
+
+    .hero_slider .carousel_caption a {
+        font-size: 0.7rem;
+    }
+
+    .hero_slider .carousel_caption{
+        left: 1rem;
+        bottom: 4rem;
+    }
+
+    .hero_slider .carousel_caption img {
+        height: 35px !important;
+        top: 95px;
+        left: -10px;
+      }
+      
+    .hero_slider .carousel_caption h4 {
+        font-size: 1rem;
+        top: 105px;
+        left: -20px;
+        word-spacing: 1px;
+      }
+
+    .hero_slider .carousel-control-prev-icon {
+        top: 140px;
+        left: 0;
+      }
+    .hero_slider .carousel-control-next-icon {
+        top: 140px;
+        right: 0;
+      }
+
+    .hero_slider .carousel_caption .btn{
+        display: block;
+        margin: auto;
+        width: 5rem;
+    }
+
+    .introduce__page h2 {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .introduce__page .underline {
+        width: 2rem;
+    }
+
+    .yearwise_PS .table th {
+        font-size: 0.8rem;
+      }
+
+    .yearwise_EC h2 {
+        font-size: 1.2rem;
+      }
+
+    .yearwise_EC .underline {
+        width: 2rem;
+      }
+      
+
+    .conveynor .underline {
+        width: 2rem;
+    }
+
+    .adhoc .underline {
+        width: 2rem;
+    }
+
+    .executive .underline {
+        width: 2rem;
+    }
+
+    .table_history .info .btn{
+        width: 95%;
+    }
+
+    .lifetimemember .underline {
+        width: 2rem;
+    }
+
+    .lifetimemember h2 {
+        font-size: 1.2rem;
+    }
+
+    .lifetimemember h6 {
+        font-size: 1.3rem;
+    }
+
+    .introduce__page span {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+      }
+      
+    
+    .introduce__page h3 {
+        font-size: 1.257rem;
+    }
+    .coundown_timer .time h1 {
+        font-size: 1.7rem;
+        word-spacing: 3px;
+      }
+    .coundown_timer .time p {
+        font-size: 1.7rem !important;
+        word-spacing: 2rem !important;
+        width: 100%;
+      }
+      .about .carousel-inner .carousel-item {
+        height: 210px;
+      }
+      .about  .carousel-item img {
+        height: 55vh;
+      }
+
+      .inner_footer h3, p {
+        text-align: center;
+      }
+      .inner_footer p {
+        font-size: 0.825rem;
+      }
+
+      #data_table .container {
+        overflow-x: auto;
+      }
+
+      #data_table th {
+        padding: 1rem;
+      }
+      #data_table td {
+        padding: 0.7rem;
+      }      
+        
+}
